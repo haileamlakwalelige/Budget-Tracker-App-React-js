@@ -1,0 +1,50 @@
+body{
+  margin-bottom:200px;
+  padding-bottom:100px;
+}
+
+.cost{
+  background-color: rgb(0, 162, 255);
+  color:white;
+  width:100px;
+  font-size:30px;
+  border-radius: 10px;
+  padding-left:10px;
+  margin:10px;
+  height:40px;
+  text-align:center;
+  margin-top:14px;
+} 
+.save{
+  width:100%;
+  height:50px;
+  border-radius: 10px;
+  margin-top:0px;
+  color:white;
+  background-color: rgb(0, 162, 255);
+  border:none;
+  font-family:cursive;
+}
+.but{
+  padding-top:50px;
+  padding-left:50px;
+
+}
+.cast{
+  width:100px;
+}
+
+#cost{
+  width:520px;
+}
+#name{
+  width:520px;
+}
+.list-group-item{
+  margin-bottom:10px;
+  border:1px solid black;
+  color:white;
+}
+.list-group-item span{
+  padding-top:100px;
+}
